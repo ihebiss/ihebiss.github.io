@@ -22,7 +22,7 @@
   {
     "name": "java fx",
     "desc": "Application de gestion de restaurants avec une version web en Symfony et une version desktop en JavaFX",
-    "image": "notystackandroid",
+    "image": "burgerweb",
     "category": "java fx",
     "links": {
       "view": "https://www.linkedin.com/in/mohamed-iheb-issaoui-706666327/",
@@ -32,7 +32,7 @@
   {
     "name": "Symfony",
     "desc": "Application de gestion de restaurants avec une version web en Symfony et une version desktop en JavaFX",
-    "image": "notystackandroid",
+    "image": "burgerweb",
     "category": "Symfony",
     "links": {
       "view": "https://www.linkedin.com/in/mohamed-iheb-issaoui-706666327/",
